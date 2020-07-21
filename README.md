@@ -1,5 +1,5 @@
 # Candidate-Finder
-** This Project helps recruiter in finding candidates who have applied for the job based on various Search filters like (location,excpected salary,Skills etc).
+### This Project helps recruiter in finding candidates who have applied for the job based on various Search filters like (location,excpected salary,Skills etc).
 * Fill the form
 * Give the exam
 * View and update your details through User Dashboard
